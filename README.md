@@ -4,6 +4,7 @@ Automating sales categorization and decision logic using nested IF, AND, OR, and
 
 ## Project Overview
 This project transforms raw retail sales data into actionable business intelligence by automating decision-making logic. Using advanced Excel logical functions, I created a dynamic system to flag profitability, categorize shipping urgency, and identify high-value orders automatically.
+![Project Screenshot](logic-engine-demo.png)
 
 ## Key Features & Logic Implemented
 * **Profitability Analysis:** Automated P&L flagging using `IF` to separate "Profitable" orders from "Losses."
